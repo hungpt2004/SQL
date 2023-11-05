@@ -1,0 +1,1 @@
+﻿--Tính ràng buộc CONSTRAINT
